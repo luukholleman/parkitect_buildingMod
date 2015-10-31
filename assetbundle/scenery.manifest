@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 143918509
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2909357f51afe7823887a1f09443fa77
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e9458299030eefcc562450f92d52d33a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Building Mod/wallWindowLarge.obj
+- Assets/Building Mod/roofFlatCorner.obj
+- Assets/Building Mod/wallWindowRound.obj
+- Assets/Building Mod/roofPointedCorner.obj
+- Assets/Building Mod/wallWindow.obj
+- Assets/Building Mod/roofFlatSingle.obj
+- Assets/Building Mod/wallDoorLarge.obj
+- Assets/Building Mod/wallDoor.obj
+- Assets/Building Mod/roofPointed.obj
+- Assets/Building Mod/roofPointedInner.obj
+- Assets/Building Mod/wallSquareDoor.obj
+- Assets/Building Mod/roofPointedSide.obj
+- Assets/Building Mod/wallArch.obj
+- Assets/Building Mod/wallStraight.obj
+- Assets/Building Mod/roofFlatCenter.obj
+- Assets/Building Mod/wallArchCenter.obj
+- Assets/Building Mod/roofFlatSide.obj
+Dependencies: []

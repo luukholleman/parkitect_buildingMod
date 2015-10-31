@@ -1,0 +1,121 @@
+﻿{
+    "Wall Straight": {
+		"model": "wallStraight",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0
+	},
+	"Wall Door": {
+		"model": "wallDoor",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0
+	},
+	"Wall Window": {
+		"model": "wallWindow",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0
+	},
+	"Wall Window Large": {
+		"model": "wallWindowLarge",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0
+	},
+	"Wall Window Round": {
+		"model": "wallWindowRound",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0
+	},
+	"Wall Doorway Large": {
+		"model": "wallDoorLarge",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0
+	},
+	"Wall Doorway Square": {
+		"model": "wallSquareDoor",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0
+	},
+	"Wall Arch": {
+		"model": "wallArch",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0
+	},
+	"Wall Arch Center": {
+		"model": "wallArchCenter",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0
+	},
+	"Roof Flat Side": {
+		"model": "roofFlatSide",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0
+	},
+	"Roof Flat Corner": {
+		"model": "roofFlatCorner",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0
+	},
+	"Roof Flat Center": {
+		"model": "roofFlatCenter",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0
+	},
+	"Roof Flat Single": {
+		"model": "roofFlatSingle",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0
+	},
+	"Roof Pointed": {
+		"model": "roofPointed",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0
+	},
+	"Roof Pointed Side": {
+		"model": "roofPointedSide",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0
+	},
+	"Roof Pointed Corner": {
+		"model": "roofPointedCorner",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0
+	},
+	"Roof Pointed Inner": {
+		"model": "roofPointedInner",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0
+	}
+}
