@@ -1,121 +1,632 @@
 ﻿{
-    "Wall Straight": {
-		"model": "wallStraight",
+   "Wall Straight Border": {
+		"model": "wallStraightBorder",
 		"type": "deco",
 		"grid": true,
 		"price": 20.0,
-		"heightDelta": 1.0
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
 	},
-	"Wall Door": {
-		"model": "wallDoor",
+	"Wall Wide Window Border": {
+		"model": "wallWideWindowBorder",
 		"type": "deco",
 		"grid": true,
 		"price": 20.0,
-		"heightDelta": 1.0
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
 	},
-	"Wall Window": {
-		"model": "wallWindow",
+	"Wall Window Border": {
+		"model": "wallWindowBorder",
 		"type": "deco",
 		"grid": true,
 		"price": 20.0,
-		"heightDelta": 1.0
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
 	},
-	"Wall Window Large": {
-		"model": "wallWindowLarge",
+	"Wall Square Door Border": {
+		"model": "wallSquareDoorBorder",
 		"type": "deco",
 		"grid": true,
 		"price": 20.0,
-		"heightDelta": 1.0
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
 	},
-	"Wall Window Round": {
-		"model": "wallWindowRound",
+	"Wall Round Window Border": {
+		"model": "wallRoundWindowBorder",
 		"type": "deco",
 		"grid": true,
 		"price": 20.0,
-		"heightDelta": 1.0
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
 	},
-	"Wall Doorway Large": {
-		"model": "wallDoorLarge",
+	"Wall Round Door Border": {
+		"model": "wallRoundDoorBorder",
 		"type": "deco",
 		"grid": true,
 		"price": 20.0,
-		"heightDelta": 1.0
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
 	},
-	"Wall Doorway Square": {
-		"model": "wallSquareDoor",
+	"Wall Large Door Border": {
+		"model": "wallLargeDoorBorder",
 		"type": "deco",
 		"grid": true,
 		"price": 20.0,
-		"heightDelta": 1.0
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Wall Arch Center": {
+		"model": "wallArchCenterBorder",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Wall Arch Border": {
+		"model": "wallArchBorder",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
 	},
 	"Wall Arch": {
 		"model": "wallArch",
 		"type": "deco",
 		"grid": true,
 		"price": 20.0,
-		"heightDelta": 1.0
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
 	},
-	"Wall Arch Center": {
-		"model": "wallArchCenter",
+	"Wall Arch Bottom": {
+		"model": "wallArchBottom",
 		"type": "deco",
 		"grid": true,
 		"price": 20.0,
-		"heightDelta": 1.0
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
 	},
-	"Roof Flat Side": {
-		"model": "roofFlatSide",
+	"Wall Arch Bottom Border": {
+		"model": "wallArchBottomBorder",
 		"type": "deco",
 		"grid": true,
 		"price": 20.0,
-		"heightDelta": 1.0
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
 	},
-	"Roof Flat Corner": {
-		"model": "roofFlatCorner",
+	"Wall Curved": {
+		"model": "wallCurved",
 		"type": "deco",
 		"grid": true,
 		"price": 20.0,
-		"heightDelta": 1.0
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Wall Curved Border": {
+		"model": "wallCurvedBorder",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Wall Half": {
+		"model": "wallHalf",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Wall Half Border": {
+		"model": "wallHalfBorder",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Wall Half Transition": {
+		"model": "wallHalfTransition",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Wall Half Transition Border": {
+		"model": "wallHalfTransitionBorder",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Wall Half Transition Smooth": {
+		"model": "wallHalfTransitionSmooth",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Wall Half Transition Smooth Border": {
+		"model": "wallHalfTransitionSmoothBorder",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Wall Moon Window": {
+		"model": "wallMoonWindow",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Wall Moon Window Border": {
+		"model": "wallMoonWindowBorder",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Wall Opening": {
+		"model": "wallOpening",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Wall Opening Border": {
+		"model": "wallOpeningBorder",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Wall Round Window": {
+		"model": "wallRoundWindow",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Wall Slant": {
+		"model": "wallSlant",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Wall Slant Border": {
+		"model": "wallSlantBorder",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Wall Straight": {
+		"model": "wallStraight",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Wall Straight Window": {
+		"model": "wallStraightWindow",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Wall Supports": {
+		"model": "wallSupports",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Wall Wide Window": {
+		"model": "wallWideWindow",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Block Round": {
+		"model": "blockRound",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1"
+        }
+	},
+	"Block Square": {
+		"model": "blockSquare",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1"
+        }
+	},
+	"Block Triangle": {
+		"model": "blockTriangle",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1"
+        }
+	},
+	"Roof Flat Borders": {
+		"model": "roofFlatBorders",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
 	},
 	"Roof Flat Center": {
 		"model": "roofFlatCenter",
 		"type": "deco",
 		"grid": true,
 		"price": 20.0,
-		"heightDelta": 1.0
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1"
+        }
 	},
-	"Roof Flat Single": {
-		"model": "roofFlatSingle",
+	"Roof Flat Corner": {
+		"model": "roofFlatCorner",
 		"type": "deco",
 		"grid": true,
 		"price": 20.0,
-		"heightDelta": 1.0
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
 	},
-	"Roof Pointed": {
-		"model": "roofPointed",
+	"Roof Flat End": {
+		"model": "roofFlatEnd",
 		"type": "deco",
 		"grid": true,
 		"price": 20.0,
-		"heightDelta": 1.0
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
 	},
-	"Roof Pointed Side": {
-		"model": "roofPointedSide",
+	"Roof Flat Side": {
+		"model": "roofFlatSide",
 		"type": "deco",
 		"grid": true,
 		"price": 20.0,
-		"heightDelta": 1.0
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
 	},
-	"Roof Pointed Corner": {
-		"model": "roofPointedCorner",
+	"Roof Flat Sides": {
+		"model": "roofFlatSides",
 		"type": "deco",
 		"grid": true,
 		"price": 20.0,
-		"heightDelta": 1.0
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
 	},
-	"Roof Pointed Inner": {
-		"model": "roofPointedInner",
+	"Roof Flat Small Corner": {
+		"model": "roofFlatSmallCorner",
 		"type": "deco",
 		"grid": true,
 		"price": 20.0,
-		"heightDelta": 1.0
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Roof Flat Small Side": {
+		"model": "roofFlatSmallSide",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Roof Point": {
+		"model": "roofPoint",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1"
+        }
+	},
+	"Roof Point Border": {
+		"model": "roofPointBorder",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Roof Point Rounded": {
+		"model": "roofPointRounded",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1"
+        }
+	},
+	"Roof Point Rounded Border": {
+		"model": "roofPointRoundedBorder",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Roof Round": {
+		"model": "roofRound",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Roof Slant": {
+		"model": "roofSlant",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Roof Slant Corner": {
+		"model": "roofSlantCorner",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Roof Slant End": {
+		"model": "roofSlantEnd",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Roof Slant Inner Corner": {
+		"model": "roofSlantInnerCorner",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Roof Slant Side": {
+		"model": "roofSlantSide",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
+	},
+	"Roof Tent": {
+		"model": "roofTent",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#ECD3A1",
+            "color2": "#A75D3D"
+        }
 	}
 }

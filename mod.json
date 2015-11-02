@@ -1,1 +1,8 @@
-{"AssetBundleDir":"assetbundle","AssetBundlePrefix":"BuildingMod","BaseDir":"","CompilerVersion":"v4.0","CodeFiles":[],"EntryPoint":"Custom_Scenery.Main","IsDevelopment":false,"IsEnabled":true,"Name":"Building Mod by Kenney","Project":"Custom Scenery.csproj","Tag":null,"ReferencedAssemblies":[],"Repository":null}
+{
+    "BaseDir": "",
+    "EntryPoint": "Custom_Scenery.Main",
+    "IsDevelopment": false,
+    "Name": "Building Mod by Kenney",
+    "Project": "Custom Scenery.csproj",
+	"AssetBundleDir": "assetbundle"
+}
