@@ -1,4 +1,4 @@
-# CustomSceneryModTemplate
-Mod template for custom scenery
+# Building Mod
+Adds 50+ structure objects to Parkitect.
 
 See https://parkitectnexus.com/modding-wiki for documentation
