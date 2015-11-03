@@ -80,6 +80,7 @@ namespace Custom_Scenery
             sw.WriteLine(e);
 
             sw.Flush();
+			sw.Close();
         }
 
         public void UnloadScenery()
