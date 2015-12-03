@@ -1,8 +1,6 @@
 {
     "BaseDir": "",
-    "EntryPoint": "Custom_Scenery.Main",
-    "IsDevelopment": false,
+    "IsDevelopment": true,
     "Name": "Building Mod by Kenney",
-    "Project": "Custom Scenery.csproj",
-	"AssetBundleDir": "assetbundle"
+    "Project": "Custom Scenery.csproj"
 }
